@@ -542,13 +542,12 @@ img {
 }
 
 .footer-soc-container {
-  margin-right: 120px;
+  margin-right: auto;
 }
 
 .footer-link-title {
   color: #fff;
   font-size: 16px;
-  max-width: 100%;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
