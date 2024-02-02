@@ -878,6 +878,12 @@ img {
   text-decoration: underline;
 }
 
+.check-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .check-text span {
   width: 16px;
   height: 16px;
